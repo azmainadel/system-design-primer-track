@@ -30,9 +30,11 @@
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
     * [Step 2: Review the scalability article](#step-2-review-the-scalability-article)
     * [Next steps](#next-steps)
-</s>
 
 * [Performance vs scalability](#performance-vs-scalability)
+  
+ </s>
+ 
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
@@ -329,7 +331,6 @@ First, you'll need a basic understanding of common principles, learning about wh
     * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
     * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
     * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
-</s>
 
 ### Next steps
 
@@ -357,6 +358,8 @@ Another way to look at performance vs scalability:
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
+</s>
+  
 ## Latency vs throughput
 
 **Latency** is the time to perform some action or to produce some result.
