@@ -32,15 +32,15 @@
     * [Next steps](#next-steps)
 
 * [Performance vs scalability](#performance-vs-scalability)
-  
- </s>
- 
 * [Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
         * [CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)
         * [AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)
-* [Consistency patterns](#consistency-patterns)
+
+   </s>
+   
+  * [Consistency patterns](#consistency-patterns)
     * [Weak consistency](#weak-consistency)
     * [Eventual consistency](#eventual-consistency)
     * [Strong consistency](#strong-consistency)
@@ -357,8 +357,6 @@ Another way to look at performance vs scalability:
 
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
-
-</s>
   
 ## Latency vs throughput
 
@@ -406,6 +404,8 @@ AP is a good choice if the business needs allow for [eventual consistency](#even
 * [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
+
+</s>
 
 ## Consistency patterns
 
