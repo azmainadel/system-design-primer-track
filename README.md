@@ -37,9 +37,6 @@
     * [CAP theorem](#cap-theorem)
         * [CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)
         * [AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)
-
-   </s>
-   
   * [Consistency patterns](#consistency-patterns)
     * [Weak consistency](#weak-consistency)
     * [Eventual consistency](#eventual-consistency)
@@ -48,6 +45,9 @@
     * [Fail-over](#fail-over)
     * [Replication](#replication)
     * [Availability in numbers](#availability-in-numbers)
+  
+     </s>
+   
 * [Domain name system](#domain-name-system)
 * [Content delivery network](#content-delivery-network)
     * [Push CDNs](#push-cdns)
@@ -308,7 +308,6 @@ New to system design?
 
 First, you'll need a basic understanding of common principles, learning about what they are, how they are used, and their pros and cons.
 
-<s>
 
 ### Step 1: Review the scalability video lecture
 
@@ -404,8 +403,6 @@ AP is a good choice if the business needs allow for [eventual consistency](#even
 * [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
-
-</s>
 
 ## Consistency patterns
 
