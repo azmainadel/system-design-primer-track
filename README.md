@@ -45,9 +45,6 @@
     * [Fail-over](#fail-over)
     * [Replication](#replication)
     * [Availability in numbers](#availability-in-numbers)
-  
-     </s>
-   
 * [Domain name system](#domain-name-system)
 * [Content delivery network](#content-delivery-network)
     * [Push CDNs](#push-cdns)
@@ -58,6 +55,10 @@
     * [Layer 4 load balancing](#layer-4-load-balancing)
     * [Layer 7 load balancing](#layer-7-load-balancing)
     * [Horizontal scaling](#horizontal-scaling)
+  
+      </s>
+   
+  
 * [Reverse proxy (web server)](#reverse-proxy-web-server)
     * [Load balancer vs reverse proxy](#load-balancer-vs-reverse-proxy)
 * [Application layer](#application-layer)
