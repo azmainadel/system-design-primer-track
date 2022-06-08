@@ -54,11 +54,7 @@
     * [Active-active](#active-active)
     * [Layer 4 load balancing](#layer-4-load-balancing)
     * [Layer 7 load balancing](#layer-7-load-balancing)
-    * [Horizontal scaling](#horizontal-scaling)
-  
-      </s>
-   
-  
+    * [Horizontal scaling](#horizontal-scaling)   
 * [Reverse proxy (web server)](#reverse-proxy-web-server)
     * [Load balancer vs reverse proxy](#load-balancer-vs-reverse-proxy)
 * [Application layer](#application-layer)
@@ -78,6 +74,10 @@
         * [Wide column store](#wide-column-store)
         * [Graph Database](#graph-database)
     * [SQL or NoSQL](#sql-or-nosql)
+  
+   
+      </s>
+      
 * [Cache](#cache)
     * [Client caching](#client-caching)
     * [CDN caching](#cdn-caching)
