@@ -73,11 +73,7 @@
         * [Document store](#document-store)
         * [Wide column store](#wide-column-store)
         * [Graph Database](#graph-database)
-    * [SQL or NoSQL](#sql-or-nosql)
-  
-   
-      </s>
-      
+    * [SQL or NoSQL](#sql-or-nosql)      
 * [Cache](#cache)
     * [Client caching](#client-caching)
     * [CDN caching](#cdn-caching)
@@ -95,6 +91,9 @@
     * [Message queues](#message-queues)
     * [Task queues](#task-queues)
     * [Back pressure](#back-pressure)
+
+        </s>
+        
 * [Communication](#communication)
     * [Transmission control protocol (TCP)](#transmission-control-protocol-tcp)
     * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
