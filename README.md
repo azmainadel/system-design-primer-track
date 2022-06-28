@@ -90,19 +90,20 @@
 * [Asynchronism](#asynchronism)
     * [Message queues](#message-queues)
     * [Task queues](#task-queues)
-    * [Back pressure](#back-pressure)
-
-        </s>
-        
+    * [Back pressure](#back-pressure)        
 * [Communication](#communication)
     * [Transmission control protocol (TCP)](#transmission-control-protocol-tcp)
     * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
 * [Security](#security)
+
+</s>
+        
 * [Appendix](#appendix)
     * [Powers of two table](#powers-of-two-table)
-    * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
+    * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)         
+            
     * [Additional system design interview questions](#additional-system-design-interview-questions)
     * [Real world architectures](#real-world-architectures)
     * [Company architectures](#company-architectures)
